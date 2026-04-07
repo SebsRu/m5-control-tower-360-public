@@ -2,7 +2,7 @@
 
 **Part of the Supply Chain AI Suite** | By Sebastián Rueda, Supply Chain AI Orchestrator
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)](https://m5-control-tower-360-public.streamlit.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)](https://m5-control-tower-360-public-jmieqpoyedjmbpfqqrh99x.streamlit.app)
 
 ---
 
@@ -34,7 +34,7 @@ Executive teams spend **weeks** pulling data from four modules, building PowerPo
 
 ## 🚀 Live Demo
 
-### **👉 [Launch the App](https://m5-control-tower-360-public.streamlit.app)**
+### **👉 [Launch the App](https://m5-control-tower-360-public-jmieqpoyedjmbpfqqrh99x.streamlit.app)**
 
 Try it now with **demo data** (5 Kellanov SKUs across 5 categories) or **upload consolidated M1–M4 exports**.
 
@@ -145,7 +145,7 @@ Upload a consolidated CSV or Excel file with outputs from M1–M4:
 | **M2** | Inventory Diagnosis & Coverage Analyzer | ✅ Live | [Demo](https://m2-inventory-diagnosis-public.streamlit.app) |
 | **M3** | Replenishment Coach — Safety Stock Calculator | 🔄 In Dev | — |
 | **M4** | Procurement — OTIF Risk Tracker | 🔄 In Dev | — |
-| **M5** | **Control Tower 360 — Executive Dashboard** | ✅ **THIS** | **[Live](https://m5-control-tower-360-public.streamlit.app)** |
+| **M5** | **Control Tower 360 — Executive Dashboard** | ✅ **THIS** | **[Live](https://m5-control-tower-360-public-jmieqpoyedjmbpfqqrh99x.streamlit.app)** |
 
 Module flow: **M1 → M2 → M3 → M4 → M5 (Consolidated Executive Dashboard)**
 
@@ -206,4 +206,4 @@ Code available under **NDA** for commercial use. Contact for licensing.
 
 ---
 
-**Ready to make strategic supply chain decisions with confidence?** 👉 [Launch the App](https://m5-control-tower-360-public.streamlit.app)
+**Ready to make strategic supply chain decisions with confidence?** 👉 [Launch the App](https://m5-control-tower-360-public-jmieqpoyedjmbpfqqrh99x.streamlit.app)
